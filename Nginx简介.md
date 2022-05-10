@@ -28,7 +28,7 @@ Nginx是高性能的Http和反向代理Web的服务器，具有十分强大的�
 
 
 
-#### 四、nginx应用的场合
+#### 四、nginx应用场合
 
 > 1. 静态服务器(图片，视频服务)，另个lighttpd。并发几万，html，js，css，flv，jpg，gif等。
 > 2. 动态服务，nginx—fastcgi 方式运行PHP，jsp。(PHP并发约500-1500，MySQL 并发约300-1500）。
